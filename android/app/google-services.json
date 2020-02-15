@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "836603039032",
+    "firebase_url": "https://loja-virtual-2fe09.firebaseio.com",
+    "project_id": "loja-virtual-2fe09",
+    "storage_bucket": "loja-virtual-2fe09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836603039032:android:400a98ffcbc96a32aa05cd",
+        "android_client_info": {
+          "package_name": "br.com.meupacote.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836603039032-c6gi7mntmih6n1c4ng0tngft3us8fbml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiZazt3IX1RhyL3Vkn70ArMvnEu3nRf0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836603039032-c6gi7mntmih6n1c4ng0tngft3us8fbml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
